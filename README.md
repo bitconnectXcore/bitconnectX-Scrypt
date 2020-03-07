@@ -1,5 +1,5 @@
-# bitconnect-Scrypt
+# bitconnectX-Scrypt
 
 **BlockChain Development Dependencies**
 
-sudo wget -L https://raw.githubusercontent.com/bitconnectCore/bitconnect-Scrypt/master/bitconnect-scrypt.sh | sudo chmod +x bitconnect-scrypt.sh; sudo sh bitconnect-scrypt.sh
+sudo wget -L https://raw.githubusercontent.com/bitconnectXcore/bitconnectX-Scrypt/master/bitconnectx-scrypt.sh | sudo chmod +x bitconnectx-scrypt.sh; sudo sh bitconnectx-scrypt.sh
